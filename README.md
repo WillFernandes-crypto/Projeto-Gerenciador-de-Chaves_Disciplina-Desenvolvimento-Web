@@ -1,4 +1,5 @@
 # CC0050 - Princípiosde desenvolvimento WEB
+Sistema básico para o gerenciamento de chaves. Usa linguagem JavaScript, em conjunto com a framework Flask e integração com o Docker.
 
 ## Testando a aplicação
 ```
